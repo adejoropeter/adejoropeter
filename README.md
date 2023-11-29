@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adejoro Peter</h1>
-<h3 align="center">A Passionate FrontEnd Developer From Nigeria</h3>
+<p align="center"> A front-end developer. I use tools such as React Js, Next Js and Tailwind css to make interactive, responsive web pages</p>
 
 - 📫 How to reach me **adejoropeter25@gmail.com**
 
